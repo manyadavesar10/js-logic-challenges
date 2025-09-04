@@ -13,11 +13,6 @@ Each folder contains:
 
 ---
 
-## **🗂 Folder Structure**
-
-
----
-
 ## **🔥 Topics Covered**
 - Loops and Conditionals  
 - Arrays and Objects  
