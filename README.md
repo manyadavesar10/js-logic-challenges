@@ -1,7 +1,7 @@
 # **JS Logic Challenges**
 
 🚀 A collection of **40 JavaScript problems** I’m solving to **master logic building** and strengthen my problem-solving skills.  
-The problems are based on this [YouTube playlist](https://youtube.com/playlist?list=PLq1qGLnPX0eeeK_JmsiMavOqkZ6tgQjdF&si=MzmNpl0eV1RJM585) by **Code with Ania Kubów**.
+The problems are based on this [YouTube playlist](https://youtube.com/playlist?list=PLq1qGLnPX0eeeK_JmsiMavOqkZ6tgQjdF&si=MzmNpl0eV1RJM585) by **Ashish Saluja - IT Guru**.
 
 ---
 
